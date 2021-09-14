@@ -1,6 +1,6 @@
-# Equity-Price-Movement-Prediction-with-Credit-Suisse
+# Time-Series-Analysis-with-Credit-Suisse
 
-This repo contains code for the project titled "Equity Price Movement Prediction using Deep Learning".
+This repo contains code for the project titled "Time Series Analysis using Deep Learning".
 
 Each module has been created as a different Python class. 
 
